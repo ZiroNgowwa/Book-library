@@ -2,8 +2,7 @@
 By Ziro Ngowwa
 
 ### DESCRIPTION
-This is a simple Task Manager that makes it easy for you to keep track of all Tasks and To Dos.Task Manager allows you to efficiently manage your tasks.  Its slick and intuitive design allows you to focus on your tasks not on the design.This Task Manager application allows you to stay productive in your everyday life.
-
+This is a simple application that makes it easy for you to search for books with the Author's name or the book tittle.
 ### HOW TO RUN THIS APP
 Clone or download the repository,
 
